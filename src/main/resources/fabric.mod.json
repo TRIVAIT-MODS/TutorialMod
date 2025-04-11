@@ -3,9 +3,9 @@
 	"id": "tutorialmod",
 	"version": "${version}",
 	"name": "TutorialMod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "bla bla bla",
 	"authors": [
-		"Me!"
+		"TRIVAIT"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
