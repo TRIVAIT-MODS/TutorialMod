@@ -2,5 +2,8 @@
   "item.tutorialmod.red_emerald": "Red Emerald",
   "item.tutorialmod.crushed_red_emerald": "Crushed Red Emerald",
 
+  "block.tutorialmod.red_emerald_block": "Red Emerald Block",
+  "block.tutorialmod.raw_red_emerald_block": "Raw Red Emerald Block",
+
   "itemgroup.tutorialmod.item_group": "Group"
 }

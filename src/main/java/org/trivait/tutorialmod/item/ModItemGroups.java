@@ -9,6 +9,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import org.trivait.tutorialmod.TutorialMod;
+import org.trivait.tutorialmod.block.ModBlocks;
 
 public class ModItemGroups {
 
@@ -21,6 +22,8 @@ public class ModItemGroups {
                         entries.add(ModItems.RED_EMERALD);
                         entries.add(ModItems.CRUSHED_RED_EMERALD);
                         entries.add(Items.IRON_INGOT);
+                        entries.add(ModBlocks.RAW_RED_EMERALD_BLOCK);
+                        entries.add(ModBlocks.RED_EMERALD_BLOCK);
                     }).build());
 
     public static void register() {
